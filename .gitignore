@@ -1,0 +1,9 @@
+# Editor dir
+.idea
+*.suo
+.vscode
+*.ntvs*
+*.njsporj
+*.sln
+*.sw?
+*.xlsx
