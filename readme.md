@@ -15,3 +15,4 @@ LICENSE: [MIT](./license.md)
 2. [GIT ADD](./add.md)
 
 3. TEST  
+4. вообще не надо было делать
