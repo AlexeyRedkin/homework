@@ -1,6 +1,6 @@
 # инструкция по работе с git
 
-LICENSE: [MIT](./license.md)
+LICENSE: [**Alexey Redkin**](./license.md)
 
 
 ![](./asset/git-logo.png)
