@@ -13,6 +13,5 @@ LICENSE: [MIT](./license.md)
 
 1. [Учебник по GIT](https://githowto.com/ru)
 2. [GIT ADD](./add.md)
-
-3. TEST  
+3. [Основные команды git](./gitcomand.md)
 4. вообще не надо было делать
