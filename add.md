@@ -1,4 +1,4 @@
-[<НАЗАД](./readme)
+[<НАЗАД](./readme.md)
 
 ## git add
 
