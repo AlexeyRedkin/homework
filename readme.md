@@ -11,7 +11,7 @@ LICENSE: [**Alexey Redkin**](./license.md)
 
 ## Сожержание:
 
-1. [Учебник по GIT](https://githowto.com/ru)
+1. [просто ссылка](https://www.google.com)
 2. [GIT ADD](./add.md) **Зачем надо было если я все делаю через командную строку**
 3. [Основные команды git](./gitcomand.md)
 4. вообще не надо было делать
